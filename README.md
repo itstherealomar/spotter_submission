@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 Deliverables Overview
+## Deliverables Overview
 
 This repository contains all official deliverables requested in `freight-rate-ml-assessment.pdf`:
 
@@ -38,13 +38,13 @@ Validation was conducted using a strict **Out-of-Time (OOT) Forward Split** (Tra
 
 ---
 
-## ⚙️ Quickstart & Reproduction Instructions
+## Quickstart & Reproduction Instructions
 
 ### 1. Clone & Set Up Environment
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/itstherealomar/spotter_submission.git
 cd spotter_submission
 
 # Create and activate virtual environment (optional but recommended)
